@@ -86,7 +86,8 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot 2025-11-22 161947" src="https://github.com/user-attachments/assets/58214c92-bc89-44a3-97a3-748726cf4518" />
 
 **RTL:**
-![Uploading wave.png…]()
+<img width="1920" height="1080" alt="wave" src="https://github.com/user-attachments/assets/8b087de0-4ac8-488e-bc73-ec479d50d45a" />
+
 
 
 
