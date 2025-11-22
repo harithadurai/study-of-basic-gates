@@ -85,7 +85,7 @@ endmodule
 **RTL realization Output:** 
 <img width="1920" height="1080" alt="Screenshot 2025-11-22 161947" src="https://github.com/user-attachments/assets/58214c92-bc89-44a3-97a3-748726cf4518" />
 
-**RTL**
+**RTL:**
 ![Uploading Screenshot (15).png…]()
 
 
